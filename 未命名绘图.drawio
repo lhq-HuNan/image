@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T07:55:01.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="37q_JgJfdXV3K9VyqoxI" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T02:46:21.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0hK8BdgafByxJIr-CjQW" version="15.8.3" type="github">
   <diagram id="QmFLCAPsfilFU5ywDQWz" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,46 @@
           <mxGeometry x="100" y="100" width="550" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ds6BCZwHAGG2QGQAVBN1-9" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;质量管理相关功能&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;1.原材料进场数据增删改查&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;2.原材料检测数据增删改查&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;3.原材料库存数据增删改查&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;4.检测报告管理&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;各标段试验室信息管理&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;各标段检测人员管理&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;各标段仪器设备管理&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;各标段样品台账管理&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;各标段报告台账管理&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;各标段不合格台账管理&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;各标段外委试验台账管理&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;5.各标段地磅动态监控——实时数据查询&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;6.各标段混凝土拌合站——实时数据查询&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;7.各标段工序管理&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="790" y="100" width="630" height="640" as="geometry" />
+          <mxGeometry x="750" y="100" width="630" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-1" value="服务提供者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="935" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="945" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-5" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="570" y="930" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-7" value="智能合约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1010" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="Q39CvUvdOPkpIdRfKEma-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="1410" as="sourcePoint" />
+            <mxPoint x="200" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="1410" as="sourcePoint" />
+            <mxPoint x="414" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604.5" y="1415" as="sourcePoint" />
+            <mxPoint x="604.5" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q39CvUvdOPkpIdRfKEma-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794.5" y="1415" as="sourcePoint" />
+            <mxPoint x="794.5" y="1010" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
