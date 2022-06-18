@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T07:39:23.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="yCZoWxazFpcgqTGEcS0L" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T07:40:03.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="HDJnk4Pgt699UJWp3NBr" version="20.0.1" type="github">
   <diagram id="19MbuUc1BT7nycTp4Nkc" name="Page-1">
     <mxGraphModel dx="1364" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="CGRJ25Iukog198GcqVwM-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="217" y="600" width="500" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CGRJ25Iukog198GcqVwM-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CGRJ25Iukog198GcqVwM-16" value="区块链 Hyperleger Fabric 状态数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264.5" y="620" width="386" height="60" as="geometry" />
         </mxCell>
       </root>
