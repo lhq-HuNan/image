@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T07:40:03.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="HDJnk4Pgt699UJWp3NBr" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T07:50:19.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="-TjScUyoaKrjX7LXN_oR" version="20.0.1" type="github">
   <diagram id="19MbuUc1BT7nycTp4Nkc" name="Page-1">
     <mxGraphModel dx="1364" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,6 +61,21 @@
         </mxCell>
         <mxCell id="CGRJ25Iukog198GcqVwM-16" value="区块链 Hyperleger Fabric 状态数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264.5" y="620" width="386" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGRJ25Iukog198GcqVwM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CGRJ25Iukog198GcqVwM-28" target="CGRJ25Iukog198GcqVwM-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGRJ25Iukog198GcqVwM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CGRJ25Iukog198GcqVwM-28" target="CGRJ25Iukog198GcqVwM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGRJ25Iukog198GcqVwM-28" value="&lt;span style=&quot;font-size:9.0pt;line-height:125%;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;基于区块链的学生学业管理系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGRJ25Iukog198GcqVwM-29" value="学生子系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CGRJ25Iukog198GcqVwM-31" value="管理员负责老师子系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
